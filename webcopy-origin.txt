@@ -1,0 +1,452 @@
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZRFGj5hxF0EhjimlIksgg.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\epilogue\v17\O4ZRFGj5hxF0EhjimlIksgg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZRFGj5hxF0EhjimlIqsggqlg.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\epilogue\v17\O4ZRFGj5hxF0EhjimlIqsggqlg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZRFGj5hxF0EhjimlIrsggqlg.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\epilogue\v17\O4ZRFGj5hxF0EhjimlIrsggqlg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZXFGj5hxF0EhjimlIhggoykg.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\epilogue\v17\O4ZXFGj5hxF0EhjimlIhggoykg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZXFGj5hxF0EhjimlIhggQyklmd.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\epilogue\v17\O4ZXFGj5hxF0EhjimlIhggQyklmd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/epilogue/v17/O4ZXFGj5hxF0EhjimlIhggUyklmd.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\epilogue\v17\O4ZXFGj5hxF0EhjimlIhggUyklmd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwAT9nA2.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCm3FwrK3iLTcvnUwAT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwcT9nA2.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCm3FwrK3iLTcvnUwcT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwgT9nA2.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCm3FwrK3iLTcvnUwgT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwkT9nA2.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCm3FwrK3iLTcvnUwkT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwoT9nA2.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCm3FwrK3iLTcvnUwoT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwQT9g.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCm3FwrK3iLTcvnUwQT9g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCm3FwrK3iLTcvnUwsT9nA2.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCm3FwrK3iLTcvnUwsT9nA2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvhYwYL8g.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCo3FwrK3iLTcvhYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcviYwY.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCo3FwrK3iLTcviYwY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvmYwYL8g.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCo3FwrK3iLTcvmYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvsYwYL8g.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCo3FwrK3iLTcvsYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvtYwYL8g.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCo3FwrK3iLTcvtYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvuYwYL8g.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCo3FwrK3iLTcvuYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCo3FwrK3iLTcvvYwYL8g.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\inter\v18\UcCo3FwrK3iLTcvvYwYL8g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQbuFFYT72XzQspDre2.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\sora\v12\xMQbuFFYT72XzQspDre2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQbuFFYT72XzQUpDg.woff2
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\s\sora\v12\xMQbuFFYT72XzQUpDg.woff2
+Content Type: font/woff2
+
+Uri: https://zen-g-seven.vercel.app/css/animateText.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\css\animateText.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/css/bootstrap.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/css/jquery.fancybox.min.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/css/odometer.min.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\css\odometer.min.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/css/styles.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\css\styles.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/css/swiper-bundle.min.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/font/fonts.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\font\fonts.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/home-v1.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v1.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v10.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v10.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v11.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v11.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v2.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v2.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v3.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v3.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v4.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v4.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v5.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v5.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v6.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v6.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v7.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v7.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v8.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v8.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/home-v9.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\home-v9.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/icons/icomoon/fonts/icomoon.eot?9ydp8i
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\icons\icomoon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zen-g-seven.vercel.app/icons/icomoon/fonts/icomoon.svg?9ydp8i
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\icons\icomoon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://zen-g-seven.vercel.app/icons/icomoon/fonts/icomoon.ttf?9ydp8i
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\icons\icomoon\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://zen-g-seven.vercel.app/icons/icomoon/fonts/icomoon.woff?9ydp8i
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\icons\icomoon\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://zen-g-seven.vercel.app/icons/icomoon/style.css
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\icons\icomoon\style.css
+Content Type: text/css
+
+Uri: https://zen-g-seven.vercel.app/images/item/bg-portfolio-dark.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\bg-portfolio-dark.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/item/bg-portfolio-light.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\bg-portfolio-light.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/item/bg-shape.svg
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\bg-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://zen-g-seven.vercel.app/images/item/service-item-1.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\service-item-1.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/item/service-item-2.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\service-item-2.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/item/service-item-3.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\service-item-3.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/item/service-item-4.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\service-item-4.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/item/small-comet.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\small-comet.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/item/small-comet.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\item\small-comet.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-1.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-1.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-10.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-10.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-11.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-11.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-2.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-2.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-3.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-3.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-4.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-4.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-5.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-5.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-6.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-6.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-7.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-7.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-8.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-8.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/landing/feature-bg-9.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\landing\feature-bg-9.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/logo/favicon.svg
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://zen-g-seven.vercel.app/images/logo/footer-logo.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\footer-logo.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-1.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-1.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-2.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-2.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-3.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-3.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-4.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-4.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-5.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-5.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-6.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-6.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-7.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-7.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-8.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-8.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/logo/partner-9.png
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\logo\partner-9.png
+Content Type: image/png
+
+Uri: https://zen-g-seven.vercel.app/images/user/avatar-2.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\avatar-2.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/avatar.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\avatar.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-1-1.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-1-1.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-1.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-1.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-2-1.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-2-1.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-2.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-2.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-3-1.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-3-1.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-3.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-3.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-4-1.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-4-1.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/images/user/portfolio-item-4.webp
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\images\user\portfolio-item-4.webp
+Content Type: image/webp
+
+Uri: https://zen-g-seven.vercel.app/index.html
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://zen-g-seven.vercel.app/js/bootstrap.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/carousel.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\carousel.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/counter.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\counter.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/gsap.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/handleGsap.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\handleGsap.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/jquery.fancybox.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/jquery.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/main.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/odometer.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/ScrollSmooth.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\ScrollSmooth.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/ScrollTrigger.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/SplitText.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\SplitText.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/splitting.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\splitting.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/swiper-bundle.min.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/js/textanimation.js
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\js\textanimation.js
+Content Type: application/javascript
+
+Uri: https://zen-g-seven.vercel.app/video/A-Glowing-Green-Energy-Sphere.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\A-Glowing-Green-Energy-Sphere.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Dark-Minimalist-Tech-Background-With-A-Digital.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Dark-Minimalist-Tech-Background-With-A-Digital.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Digital-Particle-Wave-And-Lights.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Digital-Particle-Wave-And-Lights.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Dotted-waves-bounce.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Dotted-waves-bounce.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Dust-Dot-Particles.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Dust-Dot-Particles.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Particles-Slowly-Moving-In-Cyberspace.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Particles-Slowly-Moving-In-Cyberspace.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Plexus-Tech-Background-With-Glowing.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Plexus-Tech-Background-With-Glowing.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Vecteezy-Abstract-Blue-Waves.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Vecteezy-Abstract-Blue-Waves.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/Vibrant-Particle-Glow.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\Vibrant-Particle-Glow.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/video3.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\video3.mp4
+Content Type: video/mp4
+
+Uri: https://zen-g-seven.vercel.app/video/White-And-Black-Color-Particles-Wave-Cyber-Technology.mp4
+File Name: C:\Users\shard\Documents\home_desi\zen-g-seven.vercel.app\video\White-And-Black-Color-Particles-Wave-Cyber-Technology.mp4
+Content Type: video/mp4
+
