@@ -223,7 +223,7 @@
         $(".area-effect").each(function () {
             const $container = $(this);
             const $spotlight = $container.find(".spotlight");
-            $spotlight.css("opacity", "1");
+            $spotlight.css("opacity", "2");
             $container.on("mousemove", function (e) {
                 const offset = $container.offset();
                 const relX = e.pageX - offset.left;
